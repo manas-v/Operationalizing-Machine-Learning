@@ -12,6 +12,14 @@
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+### Authentication
+### Automated ML Experiment
+### Deploy the best model
+### Enable logging
+### Swagger Documentation
+### Consume model endpoints
+### Create and publish a pipeline
+### Documentation
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
