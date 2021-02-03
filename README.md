@@ -6,8 +6,6 @@ In this project, we will work with the Bank Marketing dataset. We will use Azure
 ## Dataset
 The data is related to the direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. i.e. The classification goal is to predict if the client will subscribe (yes/no) to a term deposit (variable y).
 
-![image](https://user-images.githubusercontent.com/59551550/106787649-fc000a80-6675-11eb-9689-815e71811c10.png)
-
 ## Architectural Diagram
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 ![image](https://user-images.githubusercontent.com/59551550/106652856-0e1d7280-65bc-11eb-8508-3384857eee10.png)
@@ -20,7 +18,13 @@ For the continuous flow of operations, authentication should not require human i
 
 ### 2. Automated ML Experiment
 AutoML or Automated ML, is the process of automating the task of machine learning model development. Using this feature, you can predict the best ML model, and it's hyperparameters suited for your problem statement.
+
 For this experiment in Azure ML Studio: We train a model using the on the bank marketing dataset with Automated ML; we create a new compute cluster; and run the AutoML experiment.
+![image](https://user-images.githubusercontent.com/59551550/106788519-0ff83c00-6677-11eb-8c6c-67ecbeeccec9.png)
+![image](https://user-images.githubusercontent.com/59551550/106787649-fc000a80-6675-11eb-9689-815e71811c10.png) 
+
+Here is the completed AutoML run
+![image](https://user-images.githubusercontent.com/59551550/106788891-9280fb80-6677-11eb-8ac2-e77233a71b65.png)
 
 ### 3. Deploy the best model
 After the bike-no.csv dataset has been trained with Automated ML, the deployment of the model happens next. This allows for consuming this model.
