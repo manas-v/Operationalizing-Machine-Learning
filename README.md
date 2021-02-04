@@ -15,6 +15,7 @@ We have used the following steps in the project
 
 ### 1. Authentication
 For the continuous flow of operations, authentication should not require human interaction. Continuous Integration and Delivery system (CI/CD) rely on uninterrupted flows and thus so that the system doesn't have to wait for a user to manually enter the password, it is good to use authentication with automation.
+Since I am using the lab Udacity provided, I am not authorized to create a security principal, and hence have started from after this step.
 
 ### 2. Automated ML Experiment
 AutoML or Automated ML is the process of automating the task of machine learning model development. Using this feature, you can predict the best ML model, and its hyperparameters suited for your problem statement.
