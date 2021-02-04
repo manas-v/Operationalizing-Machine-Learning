@@ -77,11 +77,11 @@ Publishing a pipeline is the process of making a pipeline publicly available., I
 **Part 3: Consume the pipeline**
 In this section, we will consume a pipeline using the Azure Python SDK by sending a post request to the endpoint. The post request will trigger the pipeline and schedule an Automated ML experiment.
 
-![image](https://user-images.githubusercontent.com/59551550/106850514-a4e05100-66da-11eb-82e1-17b478616606.png)
-![image](https://user-images.githubusercontent.com/59551550/106850334-55018a00-66da-11eb-8802-d280854cbb22.png)
+Scheduled and completed piepline run
 ![image](https://user-images.githubusercontent.com/59551550/106849008-ffc47900-66d7-11eb-9edd-6dcc7d119058.png)
 ![image](https://user-images.githubusercontent.com/59551550/106848946-eae7e580-66d7-11eb-8224-bfde4b275432.png)
-![image](https://user-images.githubusercontent.com/59551550/106849076-1bc81a80-66d8-11eb-80f5-0fe6e287936a.png)
+![image](https://user-images.githubusercontent.com/59551550/106918334-1cd86680-672f-11eb-859a-39db78783f95.png)
+![image](https://user-images.githubusercontent.com/59551550/106917846-ab98b380-672e-11eb-8d3b-b2c2ad0f659d.png)
 
 ## Screen Recording
 A screencast of the whole project here: https://youtu.be/waRFMApoPbc
