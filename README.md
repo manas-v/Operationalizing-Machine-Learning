@@ -7,7 +7,7 @@ In this project, we will work with the Bank Marketing dataset. We will use Azure
 The data is related to the direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. i.e. The classification goal is to predict if the client will subscribe (yes/no) to a term deposit (variable y).
 
 ## Architectural Diagram
-An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+An architectural diagram is an image that helps visualize the flow of operations from start to finish.
 ![image](https://user-images.githubusercontent.com/59551550/106652856-0e1d7280-65bc-11eb-8508-3384857eee10.png)
 
 ## Key Steps
