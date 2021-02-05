@@ -84,7 +84,7 @@ Scheduled and completed piepline run
 ![image](https://user-images.githubusercontent.com/59551550/106917846-ab98b380-672e-11eb-8d3b-b2c2ad0f659d.png)
 
 ## Screen Recording
-A screencast of the whole project here: https://youtu.be/waRFMApoPbc
+A screencast of the whole project here: https://youtu.be/fPZb-sTy8gQ
 
 ## Standout Suggestions
 - Attempt different configuration settings for the AutoML run
